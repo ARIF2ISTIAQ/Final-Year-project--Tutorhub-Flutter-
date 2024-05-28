@@ -1,0 +1,2 @@
+Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => SieveScreen()))
